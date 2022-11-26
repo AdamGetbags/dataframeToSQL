@@ -1,2 +1,2 @@
 # dataframeToSQL
-How To Create SQL Database From Pandas DataFrame
+How To Create SQLite3 Database From Pandas DataFrame
